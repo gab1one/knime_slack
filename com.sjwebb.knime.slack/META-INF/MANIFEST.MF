@@ -5,9 +5,9 @@ Bundle-SymbolicName: com.sjwebb.knime.slack;singleton:=true
 Bundle-Version: 2.9.2.qualifier
 Bundle-ClassPath: .,
  libs/javax.websocket-api-1.1.jar,
- libs/okio-1.13.0.jar,
+ libs/okio-1.17.5.jar,
  libs/tyrus-standalone-client-1.13.jar,
- libs/okhttp-3.9.1.jar,
+ libs/okhttp-3.14.9.jar,
  libs/slack-api-client-1.0.5.jar,
  libs/slack-api-model-1.0.5.jar,
  libs/slack-app-backend-1.0.5.jar
